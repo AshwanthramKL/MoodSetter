@@ -1,8 +1,8 @@
 # MoodSetter  
 
-LearnWeb3's Freshman dApp.
+[LearnWeb3's](https://www.learnweb3.io/tracks/freshman/dapp-tutorial) Freshman dApp with Ethers.js.
 
-To run the Project :
+**To run the Project :**
 1. Download the repo.
 2. Open command prompt and navigate to project location.
 3. Use the command 
